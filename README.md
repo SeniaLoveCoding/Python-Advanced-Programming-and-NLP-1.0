@@ -1,2 +1,2 @@
-# Python-Advanced-Programming-and-NLP-1.0
-Homework 03-06
+#Pthon-Advanced-Programming-and-NLP-classnote & practice
+From 20180306 to 20180620
